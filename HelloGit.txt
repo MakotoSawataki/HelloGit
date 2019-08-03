@@ -1,4 +1,8 @@
 Hello Github. 
 I'm a beginner at Github.
 
+hello Git!
+Edit test!
+branch test!
+
 here's some letters adding on 8/2.
